@@ -5,6 +5,7 @@
         "FiraCode"
         "JetBrainsMono"
         "Iosevka"
+        "ubuntu-sans-mono"
       ];
     };
   in [
