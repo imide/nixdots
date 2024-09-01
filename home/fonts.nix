@@ -2,10 +2,11 @@
   home.packages = let
     nerdFonts = pkgs.nerdfonts.override {
       fonts = [
-        "FiraCode"
+        "Terminus"
+        "SpaceMono"
         "JetBrainsMono"
-        "Iosevka"
-        "ubuntu-sans-mono"
+        "IosevkaTerm"
+        "UbuntuMono"
       ];
     };
   in [
